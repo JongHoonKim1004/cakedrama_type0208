@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/JongHoonKim1004/cakedrama_type0208/static/css/main.34190b1a.css",
-    "main.js": "/JongHoonKim1004/cakedrama_type0208/static/js/main.cf890501.js",
-    "static/js/787.b620f47e.chunk.js": "/JongHoonKim1004/cakedrama_type0208/static/js/787.b620f47e.chunk.js",
-    "static/media/under_nav_img_notMain.jpg": "/JongHoonKim1004/cakedrama_type0208/static/media/under_nav_img_notMain.fab45d8d8fa2dd0a86a5.jpg",
-    "index.html": "/JongHoonKim1004/cakedrama_type0208/index.html",
-    "main.34190b1a.css.map": "/JongHoonKim1004/cakedrama_type0208/static/css/main.34190b1a.css.map",
-    "main.cf890501.js.map": "/JongHoonKim1004/cakedrama_type0208/static/js/main.cf890501.js.map",
-    "787.b620f47e.chunk.js.map": "/JongHoonKim1004/cakedrama_type0208/static/js/787.b620f47e.chunk.js.map"
+    "main.css": "/cakedrama_type0208/static/css/main.a777f0f0.css",
+    "main.js": "/cakedrama_type0208/static/js/main.1b3c99bd.js",
+    "static/js/787.b620f47e.chunk.js": "/cakedrama_type0208/static/js/787.b620f47e.chunk.js",
+    "static/media/under_nav_img_notMain.jpg": "/cakedrama_type0208/static/media/under_nav_img_notMain.fab45d8d8fa2dd0a86a5.jpg",
+    "index.html": "/cakedrama_type0208/index.html",
+    "main.a777f0f0.css.map": "/cakedrama_type0208/static/css/main.a777f0f0.css.map",
+    "main.1b3c99bd.js.map": "/cakedrama_type0208/static/js/main.1b3c99bd.js.map",
+    "787.b620f47e.chunk.js.map": "/cakedrama_type0208/static/js/787.b620f47e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.34190b1a.css",
-    "static/js/main.cf890501.js"
+    "static/css/main.a777f0f0.css",
+    "static/js/main.1b3c99bd.js"
   ]
 }
